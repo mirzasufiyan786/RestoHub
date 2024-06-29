@@ -1,0 +1,50 @@
+{
+  "login": {
+    "name": "mirza",
+    "password": "123456"
+  },
+  "restaurant": [
+    {
+      "id": "f6a7",
+      "name": "burger",
+      "mail": "burger@test.com",
+      "location": "Gujrawala",
+      "rating": "4.7"
+    },
+    {
+      "id": "3500",
+      "name": "Fries land updated",
+      "mail": "pizza@test.com",
+      "location": "lahore",
+      "rating": "4.3"
+    },
+    {
+      "id": "3723",
+      "name": "karachi biryani",
+      "mail": "biryani@test.com",
+      "location": "Jhor town",
+      "rating": "2.5"
+    },
+    {
+      "id": "f6b9",
+      "name": "Dhaka Biryani",
+      "mail": "biryani@test.com",
+      "location": "skp",
+      "rating": "4.7"
+    },
+    {
+      "id": "15a0",
+      "name": "Pizza hut",
+      "mail": "hut@test.com",
+      "location": "lahore",
+      "rating": "4.6"
+    },
+    {
+      "id": "4da7",
+      "name": "Mr.pizza",
+      "mail": "pizza@test.com",
+      "location": "lahore",
+      "rating": "4.9"
+    }
+  ]
+}
